@@ -7,7 +7,7 @@ This is practice project of [MDN Express tutorial](https://developer.mozilla.org
 Create an `.env` file and fill in the information below:
 
 ```bash
-DB_HOST=<mongodb database host>
-DB_USER=<mongodb user>
-DB_PASS=<mongodb password>
+DB_HOST="mongodb database host"
+DB_USER="mongodb user"
+DB_PASS="mongodb password"
 ```
